@@ -1,0 +1,24 @@
+1. aanmaken github
+2. data preprocessing (verwijder duplicates and NaN)
+3. bepaal de relevante features van de descriptors via een PCA
+4. wat wordt test en wat wordt train
+5. aanmaken model voor het maken van voorspellingen
+    5.1 uitproberen welke methodes er toepasbaar zijn (random forest, k-NN)
+    5.2 bepalen welke methode het beste is
+6. verslag en presentatie 
+
+
+
+1. Richard
+2. Luuk, Richard
+3. Robin, Tijn, Rik & Yael
+4. 
+5. Julien & Branco
+6. 
+
+
+5.1 Onderzoek over random forest methode
+The random forest algorithm is an extension of the bagging method as it utilizes both bagging and feature randomness to create an uncorrelated forest of decision trees. While decision trees consider all the possible feature splits, random forests only select a subset of those features.
+
+Random forest algorithms have three main hyperparameters, which need to be set before training. These include node size, the number of trees, and the number of features sampled. From there, the random forest classifier can be used to solve for regression or classification problems.
+    > dit betekent dat alle descriptors onze features zijn waarvan 
