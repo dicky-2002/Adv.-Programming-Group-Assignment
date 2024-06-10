@@ -16,3 +16,9 @@ calculated to determine the overall importance of the specific descriptor.
     higher loading values with the first PC is more favorable than a higher
     loading of a lower PC.
 
+
+Verdeling: 
+test/train (sampling en weigth) --> tijn, rik, yael
+binary fingerprint --> robin, branco
+report --> julien, 
+preprocessing --> Luuk, ondersteuning richard
