@@ -1,0 +1,26 @@
+#om een env aan te maken gebruik de volgende twee lijnen aan code:
+#conda env create --file groupass.yml
+#conda activate groupass
+
+#als je nog een package gebruikt die hier nog niet in staat, 
+#installeer deze dan, en voeg hem vervolgens toe aan de lijst
+
+name: groupass
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - conda-build
+  - boost
+  - python
+  - pandas
+  - rdkit
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - numpy
+  - seaborn
+  
+
+
