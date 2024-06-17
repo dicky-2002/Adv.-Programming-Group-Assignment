@@ -1,6 +1,16 @@
 # Adv.-Programming-Group-Assignment
 This repository contains all the filles for the group assignment for the advanced programming course for biomedical engineers
 
+# VIRTUAL ENVIRONMENT SETUP:
+To create a new environment with conda, where all packages are installed, use the following commands on your terminal:
+# to create the env with all the needed packages: (might take several minutes)
+conda env create --file groupass.yml    
+# to activate the new environment:    
+conda activate groupass_group8
+
+
+-------------------------------
+
 Since this is the first time for everyone callaborating using Git, presumably, I made an attempt to quickly discuss some of the main
 points about how to handle code sharing within this repository, should anyone still have some questions about this. Most of the steps 
 below are probably unneccesary to mention, but I put them in purely to avoid any confusion. While the use of GitHub Desktop is optional,

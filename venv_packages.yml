@@ -1,0 +1,25 @@
+#for the use of this file, see the README file
+
+name: groupass_group8
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - conda-build
+  - boost
+  - python
+  - pandas
+  - rdkit
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - numpy
+  - seaborn
+  - pip
+  - pip:
+    - imblearn
+    - statistics
+  
+
+
