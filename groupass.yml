@@ -21,6 +21,7 @@ dependencies:
   - ipykernel
   - numpy
   - seaborn
+  - imblearn
   
 
 
